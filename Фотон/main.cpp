@@ -163,7 +163,7 @@ T* reedTagOffsetArr(TIFFTag& tag, FILE* tif) {
 
 int main() {
 	FILE* tif;
-	fopen_s(&tif, R"(C:\Users\79109\Desktop\Фотон\TestImage.tif)", "rb");
+	fopen_s(&tif, R"(C:\Users\79109\Desktop\пїЅпїЅпїЅпїЅпїЅ\TestImage.tif)", "rb");
 	
 	//Header
 	uint16_t byteOrder;
